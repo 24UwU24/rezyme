@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300&family=Caveat&display=swap');
+
+
+nav a{
+    border:1px solid #000;
+    background-color: #ffffff;
+    color:black;
+    text-decoration:none ;
+    border-radius:0% ;
+    font-size: 25px;
+    font-family:caveat;
+    margin:250px;
+}
+nav{
+    background-color: #b74cfa;
+}
+header{
+    background-color: #b74cfa;
+    display: flex;
+}
+h1{
+    text-align:center;
+}
+.p1{
+    font-size: 20px;
+}
+body{
+    background-color: rgba(255, 232, 232, 0.42)
+}
+.sp1{
+    background-color: yellow;
+    text-decoration:inherit;
+
+}
+h2{
+    text-align: center;
+}
+.sp2{
+    background-color: #eac58b;
+}
+.sp3{
+    background-color: #f592cb;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+    font-family:Bellota Text;
+}
+li{
+    font-size: 20px;
+    font-family:Bellota Text;
+}
+.cena{
+    background-color: #6ffa84;
+}
+footer{
+    background-color:#b74cfa;
+    padding:10px;
+}
+.telegram{
+    text-decoration: none;
+    color:black;
+}
